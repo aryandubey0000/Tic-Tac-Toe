@@ -12,7 +12,7 @@ Welcome to the **Tic Tac Toe** game! This is a simple web-based version of the c
 
 ## Installation
 
-To run the Tic Tac Toe game on your local machine, follow these steps:
+To run the Tic Tac Toe game on your local machine, Follow The Below Step:
 
 1. Clone the repository:
    ```bash
